@@ -1,4 +1,6 @@
 # Quotes Recommendation System
+![](quotes.png)
+
 This is a Quotes Recommendation System that uses the BERT model to provide two types of recommendations based on a dataset of English quotes from [Abirate/english_quotes](https://huggingface.co/datasets/Abirate/english_quotes):
 
 - **Recommend quotes by topic:** Given a topic, the model recommends quotes related to the topic.<br>
